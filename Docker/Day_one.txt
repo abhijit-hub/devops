@@ -1,0 +1,22 @@
+What is dockrt?
+why use docker
+contianer vs vm
+virtulzation vs vm
+
+Docker Architecture
+
+how Architecture works 
+
+
+dockr basic commands
+
+how to create images: 
+from dockerfile image is made and when image is run contianer is made. 
+
+
+docker pull <name>
+docker run <>
+how to run in detach mode 
+docker stop: 
+
+hwo to unblock termianl which is stuk when conitainer is run 
