@@ -1,7 +1,7 @@
 What is dockrt?
 why use docker
 contianer vs vm
-virtulzation vs vm
+virtulzation vs containerztion
 
 Docker Architecture
 
@@ -20,3 +20,5 @@ how to run in detach mode
 docker stop: 
 
 hwo to unblock termianl which is stuk when conitainer is run 
+
+.
